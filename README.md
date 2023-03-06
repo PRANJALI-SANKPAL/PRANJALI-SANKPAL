@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://pranjali-sankpal.github.io/My-Portfolio/#portfolio](https://pranjali-sankpal.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [MY-PROJECTS](https://pranjali-sankpal.github.io/My-Portfolio/#portfolio)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **sankpranjali@gmail.com**
 
-- 📄 Know about my experiences [https://pranjali-sankpal.github.io/My-Portfolio/images/Pranjali-Sankpal-Resume.pdf](https://pranjali-sankpal.github.io/My-Portfolio/images/Pranjali-Sankpal-Resume.pdf)
+- 📄 Know about my experiences [RESUME](https://pranjali-sankpal.github.io/My-Portfolio/images/Pranjali-Sankpal-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
