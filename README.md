@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://pranjali-sankpal.github.io/My-Portfolio/](https://pranjali-sankpal.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://pranjali-sankpal.github.io/My-Portfolio/#portfolio](https://pranjali-sankpal.github.io/My-Portfolio/#portfolio)
 
 - 💬 Ask me about **MERN stack**
 
