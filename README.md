@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [MY-PROJECTS](https://pranjali-sankpal.github.io/My-Portfolio/#portfolio)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack** and especially about **Frontend Development**
 
 - 📫 How to reach me **sankpranjali@gmail.com**
 
